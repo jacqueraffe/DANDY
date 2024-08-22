@@ -2,3 +2,5 @@ src/credentials.py
 src/dandy-433321-38650c621410.json
 .venv
 image.jpg
+*.pyc
+.DS_Store
